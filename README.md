@@ -9,7 +9,6 @@
 - **Contextual Command Processing**: Synapse doesn’t require function definitions for every task. It uses AI to infer what you want to do based on the input (e.g., if you say "Tell me a joke," it can automatically generate and share a joke without needing a predefined function for it).
 - **Self-learning**: The assistant can improve over time as it learns from interactions, adapting to the user's needs and refining its responses.
 - **Voice Integration**: Supports voice commands, making it more intuitive and allowing hands-free interaction.
-- **Joke Generation**: Trained to generate jokes and humorous responses using advanced AI models.
 
 ## Project Status
 
